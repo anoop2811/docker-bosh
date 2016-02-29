@@ -11,5 +11,5 @@ Steps to follow:
 6. Run docker build -t pivotal/bosh .
 7. Run docker run -it pivotal/bosh bash
 8. You should be in your docker vm now.
-9. Add the bosh.yml file in the root dir
+9. Edit the bosh.yml file in the root dir and replace all the placeholders
 
